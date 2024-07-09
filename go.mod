@@ -1,4 +1,4 @@
-module sigs.k8s.io/logtools
+module github.com/ThomasK33/logtools
 
 go 1.22
 

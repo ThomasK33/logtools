@@ -21,7 +21,7 @@ import (
 
 	"golang.org/x/tools/go/analysis/analysistest"
 
-	"sigs.k8s.io/logtools/logcheck/pkg"
+	"github.com/ThomasK33/logtools/logcheck/pkg"
 )
 
 func TestAnalyzer(t *testing.T) {

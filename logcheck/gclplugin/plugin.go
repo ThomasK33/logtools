@@ -24,9 +24,9 @@ import (
 	"encoding/json"
 	"fmt"
 
+	"github.com/ThomasK33/logtools/logcheck/pkg"
 	"github.com/golangci/plugin-module-register/register"
 	"golang.org/x/tools/go/analysis"
-	"sigs.k8s.io/logtools/logcheck/pkg"
 )
 
 func init() {

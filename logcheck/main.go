@@ -19,7 +19,7 @@ package main
 import (
 	"golang.org/x/tools/go/analysis/singlechecker"
 
-	"sigs.k8s.io/logtools/logcheck/pkg"
+	"github.com/ThomasK33/logtools/logcheck/pkg"
 )
 
 func main() {
